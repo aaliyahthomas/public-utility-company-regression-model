@@ -62,6 +62,6 @@ statsmodels
 
 Run the notebook top to bottom in Google Colab or Jupyter. Ensure `AICPA_regressionAnalysisData.csv` is in the working directory before running the first cell.
 
-##Author
+## Author
 
 Aaliyah Thomas
