@@ -61,7 +61,3 @@ statsmodels
 ## Usage
 
 Run the notebook top to bottom in Google Colab or Jupyter. Ensure `AICPA_regressionAnalysisData.csv` is in the working directory before running the first cell.
-
-## Notes
-
-- I am not certain how `coolDD` and `heatDD` factor into the broader project beyond this notebook — they appear in the raw data but aren't used in either model here. Worth confirming against the assignment brief if this README is meant to represent the full project.
